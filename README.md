@@ -11,13 +11,13 @@ Created by the RocketSeat team for educational purposes, its development was par
 ## Screenshots
 
 ### WEB App
-* Screen 01 *
+*Screen 01*
 ![](/screens/01-WEB-Logon.JPG)
 
-* Screen 02 *
+*Screen 02*
 ![](/screens/02-WEB-Cases-List-ONG.JPG)
 
-* Screen 03 *
+*Screen 03*
 ![](/screens/03-WEB-Cadastro-New-Case.JPG)
 
 ### Mobile App
