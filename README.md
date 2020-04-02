@@ -11,14 +11,19 @@ Created by the RocketSeat team for educational purposes, its development was par
 ## Screenshots
 
 ### WEB App
+* Screen 01 *
 ![](/screens/01-WEB-Logon.JPG)
+
+* Screen 02 *
 ![](/screens/02-WEB-Cases-List-ONG.JPG)
+
+* Screen 03 *
 ![](/screens/03-WEB-Cadastro-New-Case.JPG)
 
 ### Mobile App
-![](/screens/04-MOBILE-Splash-Screen.png)
-![](/screens/05-MOBILE-Cases-List.png)
-![](/screens/06-MOBILE-Case-Detailed.png)
+<img src="/screens/04-MOBILE-Splash-Screen.png" width="30%" />
+<img src="/screens/05-MOBILE-Cases-List.png" width="30%" />
+<img src="/screens/06-MOBILE-Case-Detailed.png" width="30%" />
 
 ## Credits
 1. RocketSeat (<https://rocketseat.com.br/>)
