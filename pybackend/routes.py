@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request, Response
 import json
 
-from OngsModel import *
+from OngsModel import Ongs
 
 from app import *
 
@@ -19,7 +19,6 @@ def add_ong():
                                req["city"], 
                                req["uf"])    
     return Response(json.dumps(return_data), 201, mimetype='application/json')
-
 
 @app.route('/ongs/<int:id>', methods=['DELETE'])
 def delete_ong(id):
